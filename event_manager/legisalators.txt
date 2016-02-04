@@ -1,0 +1,375 @@
+Allison : 20010: Eleanor Norton 
+SArah : 20009: Eleanor Norton
+Sarah : 33703: David Jolly, Marco Rubio, Bill Nelson
+Jennifer : 37216: Jim Cooper, Lamar Alexander, Bob Corker
+Douglas : 50309: Joni Ernst, David Young, Charles Grassley
+Aya : 90210: Ted Lieu, Brad Sherman, Adam Schiff, Barbara Boxer, Dianne Feinstein
+Mary Kate : 21230: John Sarbanes, C. Ruppersberger, Barbara Mikulski, Elijah Cummings, Benjamin Cardin
+Audrey : 95667: Tom McClintock, Barbara Boxer, Dianne Feinstein
+Shiyu : 96734: Tulsi Gabbard, Brian Schatz, Mazie Hirono
+Eli : 92037: Scott Peters, Darrell Issa, Barbara Boxer, Dianne Feinstein
+Colin : 02703: Joseph Kennedy, Elizabeth Warren, Edward Markey
+Megan : 43201: Joyce Beatty, Patrick Tiberi, Steve Stivers, Robert Portman, Sherrod Brown
+Meggie : 94611: Mark DeSaulnier, Barbara Lee, Barbara Boxer, Dianne Feinstein
+Laura : 00924: Pedro Pierluisi
+Paul : 14517: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Shannon : 03082: Ann Kuster, Kelly Ayotte, Jeanne Shaheen
+Shannon : 98122: Adam Smith, Patty Murray, Jim McDermott, Maria Cantwell
+Nash : 98122: Adam Smith, Patty Murray, Jim McDermott, Maria Cantwell
+Amanda : 14841: Charles Schumer, Tom Reed, Kirsten Gillibrand
+David : 07306: Cory Booker, Donald Payne, Albio Sires, Robert Menéndez
+John : 78705: Roger Williams, Ted Cruz, Lamar Smith, Michael McCaul, John Cornyn
+Peter : 02553: Elizabeth Warren, Edward Markey, William Keating
+Dana : 23188: Timothy Kaine, Robert Wittman, Mark Warner
+Paige : 98109: Patty Murray, Jim McDermott, Maria Cantwell
+Maria : 98629: Patty Murray, Jaime Herrera Beutler, Maria Cantwell
+Michael : 84105: Chris Stewart, Mike Lee, Orrin Hatch
+Oliver : 49506: Gary Peters, Justin Amash, Debbie Stabenow
+Kaitlyn : 08889: Cory Booker, Leonard Lance, Robert Menéndez
+Brant : 91326: Steve Knight, Brad Sherman, Barbara Boxer, Dianne Feinstein
+Sarah : 21044: John Sarbanes, Barbara Mikulski, Elijah Cummings, Benjamin Cardin
+Marta : 23220: Timothy Kaine, Robert Scott, Mark Warner
+Greg : 20912: Chris Van Hollen, Barbara Mikulski, Donna Edwards, Benjamin Cardin
+Curtis : 75154: Ted Cruz, Eddie Johnson, Joe Barton, John Cornyn
+Kelly : 55406: Keith Ellison, Alan Franken, Amy Klobuchar
+Meaghan : 04879:
+Emma : 17011: Scott Perry, Patrick Toomey, Robert Casey
+Matthew : 12571: Charles Schumer, Christopher Gibson, Kirsten Gillibrand
+Jonathan : 28480: Thom Tillis, David Rouzer, Richard Burr
+Kristin : 28403: Thom Tillis, David Rouzer, Walter Jones, Richard Burr
+Dan : 22903: Timothy Kaine, Robert Hurt, Mark Warner
+Jeff : 27615: Thom Tillis, George Holding, David Price, Richard Burr
+Stephanie : 27513: Thom Tillis, George Holding, David Price, Renee Ellmers, Richard Burr
+Yi : 36559: Bradley Byrne, Richard Shelby, Jefferson Sessions
+Stephanie : 28403: Thom Tillis, David Rouzer, Walter Jones, Richard Burr
+Null : 28403: Thom Tillis, David Rouzer, Walter Jones, Richard Burr
+Nate : 27617: Thom Tillis, George Holding, David Price, Richard Burr
+Courtney : 23116: David Brat, Timothy Kaine, Mark Warner
+Sherry : 92037: Scott Peters, Darrell Issa, Barbara Boxer, Dianne Feinstein
+Kayla : 93704: Devin Nunes, Jim Costa, Barbara Boxer, Dianne Feinstein
+Portia : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Julie : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Lydia : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Natalie : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Rachel : 85716: Martha McSally, John McCain, Jeff Flake
+Rachel : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Gabe : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Hannah : 94305: Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Nolan : 02139: Katherine Clark, Elizabeth Warren, Edward Markey, Michael Capuano
+Ashley Morgan : 11787: Lee Zeldin, Charles Schumer, Steve Israel, Kirsten Gillibrand
+Rose : 77345: Ted Cruz, Ted Poe, John Cornyn
+Amanda : 77084: Ted Cruz, Ted Poe, John Culberson, John Cornyn
+Brendan : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Sam : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Christie : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Naani : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Kate : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Andrew : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Kristen : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Sofia : 20001: Eleanor Norton
+Jane : 94107: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Chloe : 45056: Robert Portman, Sherrod Brown
+Theodora : 32765: Marco Rubio, John Mica, Bill Nelson
+England : 48104: Debbie Dingell, Gary Peters, Debbie Stabenow
+Michelle : 55414: Keith Ellison, Alan Franken, Amy Klobuchar
+Amy : 86001: Ann Kirkpatrick, John McCain, Jeff Flake
+April : 48192: Debbie Dingell, Gary Peters, Debbie Stabenow
+Molly : 40014: Thomas Massie, Rand Paul, Mitch McConnell
+Angela : 00601: Pedro Pierluisi
+James : 00501:
+Amanda : 34243: Marco Rubio, Vern Buchanan, Bill Nelson
+Brett : 02809: David Cicilline, John Reed, Sheldon Whitehouse
+Mike : 83709: Michael Simpson, Raúl Labrador, Michael Crapo, James Risch
+Jordan : 14454: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Null : 35401: Richard Shelby, Terri Sewell, Robert Aderholt, Jefferson Sessions
+Kyla : 05405: Peter Welch, Patrick Leahy, Bernard Sanders
+Laura : 05445: Peter Welch, Patrick Leahy, Bernard Sanders
+Roger : 26505: David McKinley, Shelley Capito, Joe Manchin
+Brian : 70130: David Vitter, Cedric Richmond, Bill Cassidy
+Devin : 63628: Jason Smith, Roy Blunt, Claire McCaskill
+Sarah : 30127: David Perdue, Barry Loudermilk, David Scott, John Isakson, Tom Graves
+Eco : 23173: David Brat, Timothy Kaine, Mark Warner
+Tyler : 32721:
+Marisol : 05735: Peter Welch, Patrick Leahy, Bernard Sanders
+Rose : 32826: Alan Grayson, Marco Rubio, John Mica, Bill Nelson
+Cate : 32612: Ted Yoho, Marco Rubio, Bill Nelson
+Natalie : 33308: Lois Frankel, Marco Rubio, Bill Nelson
+Alisha : 60614: Janice Schakowsky, Mike Quigley, Mark Kirk, Danny Davis, Richard Durbin
+Martha : 32803: Alan Grayson, Daniel Webster, Marco Rubio, John Mica, Bill Nelson
+Maia : 66044: Jerry Moran, Lynn Jenkins, Pat Roberts
+Genna : 08012: Donald Norcross, Cory Booker, Robert Menéndez
+Maria : 22306: Donald Beyer, Timothy Kaine, Mark Warner
+Tara : 33470: Patrick Murphy, Marco Rubio, Alcee Hastings, Theodore Deutch, Bill Nelson
+Tara : 78586: Filemon Vela, Ted Cruz, John Cornyn
+Jaime : 95014: Michael Honda, Anna Eshoo, Barbara Boxer, Dianne Feinstein
+Shawn : 05401: Peter Welch, Patrick Leahy, Bernard Sanders
+Jen : 03909: Angus King, Chellie Pingree, Susan Collins
+Derek : 38111: Stephen Fincher, Steve Cohen, Lamar Alexander, Bob Corker
+Tannis Ruth : 10577: Charles Schumer, Nita Lowey, Kirsten Gillibrand
+Christina : 06515: Christopher Murphy, Rosa DeLauro, Richard Blumenthal
+Sarah : 06614: Christopher Murphy, Rosa DeLauro, Richard Blumenthal
+Samantha : 08050: Tom MacArthur, Cory Booker, Frank LoBiondo, Robert Menéndez
+Stephanie : 28403: Thom Tillis, David Rouzer, Walter Jones, Richard Burr
+Jacqueline : 20904: Chris Van Hollen, John Sarbanes, Barbara Mikulski, Donna Edwards, Benjamin Cardin
+Anna : 75052: Marc Veasey, Ted Cruz, Eddie Johnson, Joe Barton, John Cornyn
+Emilu : 78751: Roger Williams, Ted Cruz, Michael McCaul, John Cornyn
+Eriel : 94609: Barbara Lee, Barbara Boxer, Dianne Feinstein
+Susie : 94501: Barbara Lee, Barbara Boxer, Dianne Feinstein
+Katherine : 13502: Charles Schumer, Richard Hanna, Kirsten Gillibrand
+Ann : 21754: John Delaney, Chris Van Hollen, Barbara Mikulski, Benjamin Cardin
+Greta : 23238: David Brat, Timothy Kaine, Mark Warner
+Marysa : 13619: Elise Stefanik, Charles Schumer, Kirsten Gillibrand
+Rebecca : 32817: Alan Grayson, Marco Rubio, John Mica, Bill Nelson
+Claire : 10040: Charles Schumer, Charles Rangel, Kirsten Gillibrand
+Carrie : 40502: Garland Barr, Rand Paul, Mitch McConnell
+Maria : 97520: Ron Wyden, Greg Walden, Jeff Merkley
+Katie : 20009: Eleanor Norton
+Emma : 14075: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Robin : 14450: John Katko, Louise Slaughter, Charles Schumer, Kirsten Gillibrand
+Patrick : 14437: Chris Collins, Charles Schumer, Tom Reed, Kirsten Gillibrand
+Tatiana : 02459: Joseph Kennedy, Elizabeth Warren, Edward Markey
+Sarah : 01002: Elizabeth Warren, James McGovern, Edward Markey
+Caitlin : 20712: Barbara Mikulski, Donna Edwards, Benjamin Cardin
+Katherine : 13035: John Katko, Charles Schumer, Richard Hanna, Kirsten Gillibrand
+Aden : 37066: Diane Black, Lamar Alexander, Bob Corker
+Justin : 37066: Diane Black, Lamar Alexander, Bob Corker
+Lily : 24060: Timothy Kaine, H. Griffith, Mark Warner
+Ella : 05301: Peter Welch, Patrick Leahy, Bernard Sanders
+Heidi : 14738: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Megan : 60632: Daniel Lipinski, Mark Kirk, Luis Gutiérrez, Danny Davis, Richard Durbin
+Blane : 43334: Patrick Tiberi, Robert Portman, Sherrod Brown
+Victoria : 03431: Ann Kuster, Kelly Ayotte, Jeanne Shaheen
+Kenneth : 65672: Billy Long, Roy Blunt, Claire McCaskill
+Andrew : 14052: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Camila : 98112: Adam Smith, Patty Murray, Jim McDermott, Maria Cantwell
+Lauren : 27514: Mark Walker, Thom Tillis, David Price, Richard Burr
+Thera : 30084: David Perdue, Tom Price, Henry Johnson, John Isakson
+Megan : 21208: John Sarbanes, C. Ruppersberger, Barbara Mikulski, Elijah Cummings, Benjamin Cardin
+Marc : 23103: David Brat, Timothy Kaine, Mark Warner
+Kindle : 07666: Cory Booker, Bill Pascrell, Scott Garrett, Robert Menéndez
+Steve : 94549: Mark DeSaulnier, Barbara Boxer, Dianne Feinstein
+Autumn : 11211: Nydia Velázquez, Charles Schumer, Carolyn Maloney, Kirsten Gillibrand
+Rhona : 02140: Katherine Clark, Elizabeth Warren, Edward Markey, Michael Capuano
+Emily : 07039: Cory Booker, Leonard Lance, Rodney Frelinghuysen, Robert Menéndez
+Ashton : 13078: John Katko, Charles Schumer, Kirsten Gillibrand
+Gena : 21044: John Sarbanes, Barbara Mikulski, Elijah Cummings, Benjamin Cardin
+Rachel : 80134: Ken Buck, Cory Gardner, Michael Bennet
+Anjali : 14850: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Bridget : 78750: Roger Williams, Ted Cruz, Michael McCaul, John Carter, John Cornyn
+Kyle : 36303: Richard Shelby, Martha Roby, Jefferson Sessions
+Tess : 94707: Mark DeSaulnier, Barbara Lee, Barbara Boxer, Dianne Feinstein
+Kay : 32601: Ted Yoho, Marco Rubio, Corrine Brown, Bill Nelson
+Sarah : 94619: Eric Swalwell, Barbara Lee, Barbara Boxer, Dianne Feinstein
+Abdulwahab : 13601: Elise Stefanik, Charles Schumer, Kirsten Gillibrand
+Dannielle : 14850: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Rachel : 96825: Mark Takai, Tulsi Gabbard, Brian Schatz, Mazie Hirono
+Jessy : 06907: Christopher Murphy, James Himes, Richard Blumenthal
+Angie : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Jill : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Carolyn : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Andrew : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Maria : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Thomas : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Joel : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Sonum : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Seyeon : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Annie : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Gina : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Tamera : 00635:
+Mackenzie : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Catherine : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Shane : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Shelby : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Devon : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Jessie : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Sarah : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Ashley : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+X : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Grace : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Rachael : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Addie : 00000:
+Casey : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Diamond : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Sarah : 33559: Marco Rubio, Dennis Ross, Gus Bilirakis, Bill Nelson
+Chenchen : 14850: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Mark : 55077: John Kline, Alan Franken, Amy Klobuchar
+Emma : 98109: Patty Murray, Jim McDermott, Maria Cantwell
+Edward : 02738: Elizabeth Warren, Edward Markey, William Keating
+Jennifer : 02738: Elizabeth Warren, Edward Markey, William Keating
+Jess : 02738: Elizabeth Warren, Edward Markey, William Keating
+Michelle : 08054: Tom MacArthur, Cory Booker, Robert Menéndez
+Kimberly : 17601: Patrick Toomey, Joseph Pitts, Robert Casey
+Simone : 16057: Patrick Toomey, Mike Kelly, Robert Casey
+Christina : 49801: Gary Peters, Dan Benishek, Debbie Stabenow
+Shiquita : 13209: John Katko, Charles Schumer, Kirsten Gillibrand
+Summer Rayne : 78253: Will Hurd, Joaquin Castro, Ted Cruz, John Cornyn
+Megan : 07848: Cory Booker, Scott Garrett, Robert Menéndez
+Lesley : 00601: Pedro Pierluisi
+Amanda : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Ariana : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Kimber : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Sherman : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Jenna : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Chloe : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Madeline : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Liana : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Jackson : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Lauren : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Emma : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Bethany : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Hillary : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Jamie : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Lisa : 44074: Robert Portman, Jim Jordan, Bob Gibbs, Sherrod Brown
+Hila : 10012: Nydia Velázquez, Charles Schumer, Jerrold Nadler, Carolyn Maloney, Kirsten Gillibrand
+Jonathan : 11201: Hakeem Jeffries, Nydia Velázquez, Charles Schumer, Kirsten Gillibrand
+X : 11215: Nydia Velázquez, Charles Schumer, Jerrold Nadler, Yvette Clarke, Kirsten Gillibrand
+Katherine : 11230: Charles Schumer, Jerrold Nadler, Yvette Clarke, Kirsten Gillibrand
+Five : 11201: Hakeem Jeffries, Nydia Velázquez, Charles Schumer, Kirsten Gillibrand
+Diane : 11201: Hakeem Jeffries, Nydia Velázquez, Charles Schumer, Kirsten Gillibrand
+Mari : 11201: Hakeem Jeffries, Nydia Velázquez, Charles Schumer, Kirsten Gillibrand
+Adam : 11201: Hakeem Jeffries, Nydia Velázquez, Charles Schumer, Kirsten Gillibrand
+Patrick : 95632: Ami Bera, Jerry McNerney, John Garamendi, Barbara Boxer, Dianne Feinstein
+Megan : 11231: Nydia Velázquez, Charles Schumer, Jerrold Nadler, Kirsten Gillibrand
+Johanna : 11211: Nydia Velázquez, Charles Schumer, Carolyn Maloney, Kirsten Gillibrand
+Kacie : 03062: Ann Kuster, Kelly Ayotte, Jeanne Shaheen
+Erin : 14564: Chris Collins, Louise Slaughter, Charles Schumer, Kirsten Gillibrand
+Page : 14437: Chris Collins, Charles Schumer, Tom Reed, Kirsten Gillibrand
+Tara : 94705: Barbara Lee, Barbara Boxer, Dianne Feinstein
+Lucrezia : 00000:
+Geoff : 77053: Ted Cruz, Pete Olson, Al Green, John Cornyn
+Josh : 14850: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Eric : 11374: Grace Meng, Charles Schumer, Kirsten Gillibrand
+Rhys : 01845: Seth Moulton, Elizabeth Warren, Edward Markey
+Lauren : 33602: Marco Rubio, Kathy Castor, Bill Nelson
+Andrew : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Tabitha : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Jennifer : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Caitlin : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Hannah : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Cherisse : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Margie : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Elizabeth : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Robin : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Brianna : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Nelson : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Katie : 13026: John Katko, Charles Schumer, Kirsten Gillibrand
+Caroline : 40507: Garland Barr, Rand Paul, Mitch McConnell
+Michael : 40507: Garland Barr, Rand Paul, Mitch McConnell
+Elizabeth : 03801: Frank Guinta, Kelly Ayotte, Jeanne Shaheen
+Priya : 03801: Frank Guinta, Kelly Ayotte, Jeanne Shaheen
+Elizabeth : 11201: Hakeem Jeffries, Nydia Velázquez, Charles Schumer, Kirsten Gillibrand
+June : 91711: Norma Torres, Judy Chu, Barbara Boxer, Dianne Feinstein
+Cassie : 94110: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
+Emily : 06804: Elizabeth Esty, Christopher Murphy, Richard Blumenthal
+Tara : 14564: Chris Collins, Louise Slaughter, Charles Schumer, Kirsten Gillibrand
+Andrew : 14850: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Danielle : 14468: Chris Collins, Louise Slaughter, Charles Schumer, Kirsten Gillibrand
+Mary Dacey : 35115: Gary Palmer, Richard Shelby, Jefferson Sessions
+Abby : 35115: Gary Palmer, Richard Shelby, Jefferson Sessions
+Cimma : 06473: Christopher Murphy, Rosa DeLauro, Richard Blumenthal
+Jordan : 21771: Chris Van Hollen, Barbara Mikulski, Elijah Cummings, Benjamin Cardin
+Emma : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Madeline : 92103: Susan Davis, Barbara Boxer, Dianne Feinstein
+Kulia : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Amy : 92118: Scott Peters, Barbara Boxer, Dianne Feinstein
+Elizabeth : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Anket : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Kevin : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Laura : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Kara : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Catherine : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+John : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Frederick : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Hailey : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+Philip : 40206: John Yarmuth, Rand Paul, Mitch McConnell
+X : 14817: Charles Schumer, Tom Reed, Kirsten Gillibrand
+Sarah : 80212: Ed Perlmutter, Cory Gardner, Diana DeGette, Michael Bennet
+Stacy : 92677: Mimi Walters, Dana Rohrabacher, Darrell Issa, Barbara Boxer, Dianne Feinstein
+Megan : 91901: Juan Vargas, Duncan Hunter, Barbara Boxer, Dianne Feinstein
+Cat : 36036: Richard Shelby, Martha Roby, Jefferson Sessions
+Carly : 33325: Lois Frankel, Debbie Wasserman Schultz, Marco Rubio, Bill Nelson
+Emilyn : 94703: Barbara Lee, Barbara Boxer, Dianne Feinstein
+Cody : 97124: Suzanne Bonamici, Ron Wyden, Jeff Merkley
+Drucilla : 13104: John Katko, Charles Schumer, Richard Hanna, Kirsten Gillibrand
+Hayley : 11977: Lee Zeldin, Charles Schumer, Kirsten Gillibrand
+Brittany : 47229: Luke Messer, Todd Young, Joe Donnelly, Daniel Coats
+Angelique : 12866: Elise Stefanik, Paul Tonko, Charles Schumer, Kirsten Gillibrand
+Nathan : 06890: Christopher Murphy, James Himes, Richard Blumenthal
+Khalif : 11743: Charles Schumer, Steve Israel, Kirsten Gillibrand
+Paymon : 11050: Charles Schumer, Steve Israel, Kirsten Gillibrand
+Christine : 43549: Robert Portman, Robert Latta, Sherrod Brown
+Margaret : 43545: Robert Portman, Robert Latta, Sherrod Brown
+Nathan : 43549: Robert Portman, Robert Latta, Sherrod Brown
+Melanie : 43512: Robert Portman, Robert Latta, Sherrod Brown
+Andrea : 43545: Robert Portman, Robert Latta, Sherrod Brown
+Rasheda : 43517: Robert Portman, Robert Latta, Sherrod Brown
+Eugene : 43540: Robert Portman, Robert Latta, Sherrod Brown
+Julie : 43567: Robert Portman, Robert Latta, Sherrod Brown
+Celeste : 43527: Robert Portman, Robert Latta, Sherrod Brown
+Alexander : 43506: Robert Portman, Robert Latta, Sherrod Brown
+Alexandra : 43506: Robert Portman, Robert Latta, Sherrod Brown
+Ryan : 43545: Robert Portman, Robert Latta, Sherrod Brown
+Sarah : 43554: Robert Portman, Robert Latta, Sherrod Brown
+X : 45879: Robert Portman, Robert Latta, Sherrod Brown
+Tara : 43512: Robert Portman, Robert Latta, Sherrod Brown
+Tyler : 43512: Robert Portman, Robert Latta, Sherrod Brown
+Stephanie : 43557: Robert Portman, Robert Latta, Sherrod Brown
+Cynthia : 43521: Robert Portman, Robert Latta, Sherrod Brown
+Michael : 43540: Robert Portman, Robert Latta, Sherrod Brown
+Andie : 43527: Robert Portman, Robert Latta, Sherrod Brown
+Kim : 43512: Robert Portman, Robert Latta, Sherrod Brown
+Zachary : 43506: Robert Portman, Robert Latta, Sherrod Brown
+Keith : 43510:
+Courtney : 43506: Robert Portman, Robert Latta, Sherrod Brown
+Elizabeth : 43536: Robert Portman, Robert Latta, Sherrod Brown
+Marie : 43545: Robert Portman, Robert Latta, Sherrod Brown
+Cantrell : 43549: Robert Portman, Robert Latta, Sherrod Brown
+Keith : 43518: Robert Portman, Robert Latta, Sherrod Brown
+Dominique : 90293: Ted Lieu, Maxine Waters, Barbara Boxer, Dianne Feinstein
+Megan : 02842: David Cicilline, John Reed, Sheldon Whitehouse
+Brittany : 29020: Tim Scott, Mick Mulvaney, Lindsey Graham
+Julia : 01720: Elizabeth Warren, Niki Tsongas, Edward Markey
+April : 02857: James Langevin, John Reed, Sheldon Whitehouse
+Jesse : 19003: Patrick Toomey, Patrick Meehan, Chaka Fattah, Robert Casey
+Kelly : 10964: Charles Schumer, Nita Lowey, Kirsten Gillibrand
+Evelina : 94925: Jared Huffman, Barbara Boxer, Dianne Feinstein
+Kyle : 04564: Angus King, Chellie Pingree, Susan Collins
+Emma : 21784: Chris Van Hollen, Barbara Mikulski, Andy Harris, Elijah Cummings, Benjamin Cardin
+Laura : 13407: Charles Schumer, Richard Hanna, Kirsten Gillibrand
+Sierra : 75022: Ted Cruz, Kenny Marchant, Michael Burgess, John Cornyn
+Erik : 06117: Christopher Murphy, John Larson, Richard Blumenthal
+Icy : 06437: Christopher Murphy, Rosa DeLauro, Richard Blumenthal
+Miranda : 13676: Elise Stefanik, Charles Schumer, Kirsten Gillibrand
+Rachel : 01354: Elizabeth Warren, James McGovern, Edward Markey
+Laura : 98103: Patty Murray, Jim McDermott, Maria Cantwell
+Wendi : 13326: Charles Schumer, Christopher Gibson, Kirsten Gillibrand
+Emily : 06517: Christopher Murphy, Rosa DeLauro, Richard Blumenthal
+Rachel : 01002: Elizabeth Warren, James McGovern, Edward Markey
+Sherry : 14618: Louise Slaughter, Charles Schumer, Kirsten Gillibrand
+Nick : 28374: Thom Tillis, Renee Ellmers, Richard Burr
+Jackie : 60514: Peter Roskam, Mark Kirk, Richard Durbin
+Nate : 20015: Eleanor Norton
+Jonathan : 30075: David Perdue, Barry Loudermilk, Tom Price, John Isakson
+Adam : 06880: Christopher Murphy, James Himes, Richard Blumenthal
+Courtney : 04260: Angus King, Chellie Pingree, Susan Collins
+Sean : 10804: Charles Schumer, Eliot Engel, Kirsten Gillibrand
+Robyn : 14006: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Ryshelle : 14094: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Keith : 13027: John Katko, Charles Schumer, Kirsten Gillibrand
+Melanie : 20010: Eleanor Norton
+Patricia : 22204: Donald Beyer, Timothy Kaine, Mark Warner
+Aurora : 20024: Donald Beyer, Timothy Kaine, Eleanor Norton, Mark Warner
+Justin : 20010: Eleanor Norton
+Lee : 20017: Eleanor Norton
+Lauren : 14094: Chris Collins, Charles Schumer, Kirsten Gillibrand
+Amanda : 22903: Timothy Kaine, Robert Hurt, Mark Warner
+Sandra : 22901: Timothy Kaine, Robert Hurt, Mark Warner
+Kristina : 20002: Eleanor Norton
+Jon : 78746: Roger Williams, Ted Cruz, Lamar Smith, Michael McCaul, John Cornyn
+Sean : 20009: Eleanor Norton
+Michael : 20009: Eleanor Norton
+Callie : 20017: Eleanor Norton
+Eva : 20017: Eleanor Norton
+Lani : 33511: Marco Rubio, Dennis Ross, Thomas Rooney, Kathy Castor, Bill Nelson
+Anne : 94618: Barbara Lee, Barbara Boxer, Dianne Feinstein
+Benjamin : 94104: Nancy Pelosi, Barbara Boxer, Dianne Feinstein
